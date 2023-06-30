@@ -1,0 +1,3 @@
+BangLuong{maBangLuong=BL01, tenNhanSu=Nguyễn Văn A, tenPhongBan=Tài chính, soNgayLam=28, heSoLuong=500000.0, thuong=2000000.0, phat=0.0, thuclinh=1.6E7, ghiChu=Tốt}
+BangLuong{maBangLuong=BL02, tenNhanSu=Nguyễn THị C, tenPhongBan=Quản lý chất lượng, soNgayLam=27, heSoLuong=450000.0, thuong=1000000.0, phat=100000.0, thuclinh=1.305E7, ghiChu=Tốt}
+BangLuong{maBangLuong=BL03, tenNhanSu=Trần Văn B, tenPhongBan=Khoa CNTT, soNgayLam=30, heSoLuong=550000.0, thuong=500000.0, phat=0.0, thuclinh=1.7E7, ghiChu=Tốt}
